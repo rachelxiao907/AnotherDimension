@@ -72,4 +72,5 @@ public class ArrayOps {
     int[] sumCols = sumCols(matrix);
     return sumRows[row] == sumCols[col];
   }
+  
 }
